@@ -27,6 +27,74 @@ I'm known for:
 :   **Bachelors, Computer Science**; *Minor: Art*; College of the Ozarks (Point Lookout, MO)
 
 
+## Technology
+
+---------
+
+I have a wide variety of languages and tools under my belt to cover everything from Api's, Electron apps, Web Apps, multi-os desktop apps, Javascript Ui frameworks and tools as well as CICD pipeline development in multiple environments. Here is a short yet incomplete laundry list of the tech stack I've used over the years.
+
+### Languages and Frameworks
+
+* C# (Core, FullFramework)
+* ASP.NET (MVC, new, old and bleeding edge)
+* JavaScript/TypeScript (Node, Browser, etc..)
+* CSS
+* Knockout.js, Vue.js, JQuery
+* Sql (Sql Server, Azure Sql Server, SqLite, MySql, etc..)
+* Elastic Search (1, 6 &amp; 7)
+* Electron
+* Open Telemetry
+* Redis
+* NUnit, MS Test
+
+### Cloud
+
+* Azure
+
+    Service Bus, Event Hubs (basically Kafka), Blob/Table/Queue Storage, Sql, Functions, Cloud Services, Kubernetes &amp; many more...
+* AWS
+  
+  Fairly light here only interfacing enough for some POCs and supporting monitoring integrations as well as Kafka (Confluent).
+  
+
+### Dev Tools
+
+* Rider
+* Visual Studio Code
+* Visual Studio .Net
+* LinqPad
+* PostMan
+* DBeaver
+* Azure Data Studio
+* Terminal
+* Powershell
+* other CLI &amp; terminal interfaces
+* etc..
+
+### Source Control &amp; Ticketing
+
+* Atlassian (Jira, Bitbucket, Confluence)
+* Github
+
+### DevOps Tools
+
+* Azure Devops
+* Team City
+* Kubernetes / Docker
+* Various Node build frameworks.
+
+### OS App Development
+
+* Windows
+    * Electron
+    * DotNet Core &amp; Full Framework
+* MacOs
+    * Electron
+    * DotNet Core
+* Linux (lightly)
+    * Electron
+    * DotNet Core
+
 ## Experience
 ----------
 
