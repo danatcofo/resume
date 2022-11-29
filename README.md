@@ -38,7 +38,7 @@ I have a wide variety of languages and tools under my belt to cover everything f
 * C# (Core, FullFramework)
 * ASP.NET (MVC, new, old and bleeding edge)
 * JavaScript/TypeScript (Node, Browser, etc..)
-* CSS
+* CSS, SASS
 * Knockout.js, Vue.js, JQuery
 * Sql (Sql Server, Azure Sql Server, SqLite, MySql, etc..)
 * Elastic Search (1, 6 &amp; 7)
